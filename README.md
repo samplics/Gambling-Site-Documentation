@@ -1,2 +1,3 @@
-# Gambling-Site-Documentation
-Documentation for the gambling site I've been building
+## Gambling Site Documentation
+
+The documentation is located in the [Wiki Page](https://github.com/eschram/Gambling-Site-Documentation/wiki)
